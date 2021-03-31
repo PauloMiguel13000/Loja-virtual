@@ -1,0 +1,86 @@
+.backgroup{
+background-image: url(plano.png);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+.a{
+ left: 50%;
+ top: 50%;
+ margin-top: 30px;
+ margin-left: 410px;
+
+    text-align: center;
+    width: 500px;
+    height: 100px;
+   
+    
+}
+.user{
+    left: 50%;
+    top: 50%;
+    margin-top: 38px;
+    margin-left: -250px;
+   
+       text-align: center;
+       width: 500px;
+       height: 12px;
+       border-radius: 50;
+    
+}
+.text1{
+width: 100px;
+left: -60px;
+margin-left: -60px;
+    opacity: 0.6;
+}
+.color{
+    color: rgb(5, 5, 5);
+    outline: hidden;
+}
+
+.login{
+top: 50px;
+ color: rgb(245, 238, 238);
+ margin-left: 230px;
+ margin-top: -24px;
+}
+.check{
+
+    margin-left: -110px;
+   left: 1px;
+}
+.regis1{
+
+  
+    margin-left: -210px;
+   
+}
+.regis2{
+    
+    margin-top: -10px;
+   
+}
+.icone{
+
+    margin-top: 68px;
+    margin-left: 0px;
+   
+       text-align: center;
+
+
+}
+.bemvindo{
+margin-left: -60px;
+left: -60px;
+    color: rgb(153, 153, 153);
+}
+
+.senha{
+color: blue;
+
+left: -60px;
+margin-left: -90px;
+}
